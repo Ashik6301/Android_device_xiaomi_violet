@@ -9,4 +9,4 @@ git clone --depth 1 https://github.com/LineageOS/android_hardware_qcom_display.g
 git clone --depth 1 https://gitlab.com/ashiksk6301/vendor_xiaomi-firmware_violet.git -b thirteen vendor/xiaomi-firmware/violet
 git clone --depth 1 https://gitlab.com/ashiksk6301/prebuilts_clang_host_linux-x86_clang-r498229.git -b master prebuilts/clang/host/linux-x86/clang-r498229
 git clone https://gitlab.com/ashiksk6301/android_vendor_miuicamera.git vendor/MiuiCamera
-git clone https://github.com/tiann/KernelSU.git -b main kernel/xiaomi/violet/KernelSU
+
