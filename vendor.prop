@@ -242,9 +242,3 @@ persist.vendor.ims.disableQXDMLogs=1
 
 # Zygote
 zygote.critical_window.minute=10
-
-# Battery Saving
-ro.vold.umsdirtyratio=20
-ro.ril.disable.power.collapse=1
-power.saving.mode=1
-pm.sleep_mode=1
